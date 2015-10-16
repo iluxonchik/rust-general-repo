@@ -1,0 +1,13 @@
+use std::io;
+
+fn main() {
+    pritln!("Guess the number!");
+    pritln!("Please input your guess.");
+
+    let mut guess = String::new(); // create
+    io::stdin().read_line(&mut guess)
+        .ok()
+        .expect("Failed to read line");
+
+    println!("You guessed {}", guess);
+}

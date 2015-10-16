@@ -1,0 +1,4 @@
+fn main() {
+	pritln!("Guess the number!");
+	pritln!("Please input your")
+}
