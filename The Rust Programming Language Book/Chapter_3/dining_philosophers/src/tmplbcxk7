@@ -1,0 +1,5 @@
+struct Philosophe
+
+fn main() {
+    println!("Hello, world!");
+}

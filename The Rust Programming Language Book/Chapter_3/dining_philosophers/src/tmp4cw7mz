@@ -1,0 +1,5 @@
+struct Ph
+
+fn main() {
+    println!("Hello, world!");
+}

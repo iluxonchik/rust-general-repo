@@ -1,0 +1,7 @@
+struct Philosopher {
+	name: Stri
+}
+
+fn main() {
+    println!("Hello, world!");
+}

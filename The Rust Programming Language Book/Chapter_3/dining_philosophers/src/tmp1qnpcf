@@ -1,0 +1,5 @@
+stryc
+
+fn main() {
+    println!("Hello, world!");
+}

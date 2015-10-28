@@ -1,0 +1,11 @@
+struct Philosopher {
+	name: String;
+}
+
+impl Philosopher {
+	fn new(name:)
+}
+
+fn main() {
+    println!("Hello, world!");
+}

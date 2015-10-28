@@ -1,0 +1,23 @@
+struct Philosopher {
+	name: String;
+}
+
+/*
+	impl block lets us define things on Philosopher struct
+*/
+impl Philosopher {
+	// d
+	fn new(name: &str) -> Philosopher {
+		Philosopher {
+			name: name.to_string(),
+		}
+	}
+}
+
+fn main() {
+	let p1 = Philosopher::new("Philosopher 1");
+	let p2 = Philosopher::new("Philosopher 2");
+	let p3 = Philosopher::new("Philosopher 3");
+	let p4 = Philosopher::new("Philosopher 4");
+	let p5 = Philosopher::new("Philosopher 5");
+}
