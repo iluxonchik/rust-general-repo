@@ -1,5 +1,0 @@
-struct P
-
-fn main() {
-    println!("Hello, world!");
-}

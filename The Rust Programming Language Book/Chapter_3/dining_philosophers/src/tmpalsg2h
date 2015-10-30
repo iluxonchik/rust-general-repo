@@ -1,5 +1,0 @@
-struct Philosop
-
-fn main() {
-    println!("Hello, world!");
-}

@@ -1,5 +1,0 @@
-stru
-
-fn main() {
-    println!("Hello, world!");
-}

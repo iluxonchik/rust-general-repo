@@ -1,9 +1,0 @@
-struct Philosopher {
-	name: String;
-}
-
-i
-
-fn main() {
-    println!("Hello, world!");
-}

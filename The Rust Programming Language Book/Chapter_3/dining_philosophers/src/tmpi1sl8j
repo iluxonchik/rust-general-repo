@@ -1,7 +1,0 @@
-struct Philosopher {
-	name:
-}
-
-fn main() {
-    println!("Hello, world!");
-}
