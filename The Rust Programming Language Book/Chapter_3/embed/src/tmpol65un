@@ -1,0 +1,4 @@
+use sts
+
+fn it_works() {
+}
