@@ -1,0 +1,4 @@
+[root]
+name = "knuth-morris-pratt"
+version = "0.1.0"
+
